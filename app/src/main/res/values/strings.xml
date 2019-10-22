@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Demo 2.1</string>
+    <string name="message">Message:</string>
+    <string name="show_linear">Show Linear</string>
+    <string name="show_webview">Show WebView</string>
+    <string name="show_web">Show Web</string>
+    <string name="show_list">Show List</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="smoker">Smoker</string>
+    <string name="age_group">Age Group</string>
+    <string name="show_result">Show Result</string>
+    <string-array name="age">
+        <item>Less than 12</item>
+        <item>12 to 17</item>
+        <item>18 to 25</item>
+        <item>More than 25</item>
+    </string-array>
+</resources>
